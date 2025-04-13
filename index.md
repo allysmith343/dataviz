@@ -61,7 +61,7 @@
   <div class="viz-item">
     <a href="labs/lab3/index.html">
       <img src="assets/sales.png" alt="Visualization 4" class="viz-img">
-      <div class="viz-title">Sales per Month Bar Chart</div>
+      <div class="viz-title">Bar Charts</div>
     </a>
   </div>
 
