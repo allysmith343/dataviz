@@ -108,13 +108,6 @@
   </div>
 
   <div class="viz-item">
-    <a href="labs/lab6/stream-stacks/index.html">
-      <img src="assets/stack.png" alt="Visualization 7" class="viz-img">
-      <div class="viz-title">Streams Stacked Bar Chart</div>
-    </a>
-  </div>
-
-  <div class="viz-item">
     <a href="labs/lab6/trails-skeleton/index.html">
       <img src="assets/trails.png" alt="Visualization 7" class="viz-img">
       <div class="viz-title">Vancouver Trails</div>
