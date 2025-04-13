@@ -73,7 +73,7 @@ class StackedBarChart {
       vis.yScale.domain([0,18]);
   
       // Call stack generator on the dataset
-      vis.stackedData = vis.stack(vis.data);
+      vis.data = vis.stack(vis.data);
   
       vis.renderVis();
     }
@@ -87,7 +87,7 @@ class StackedBarChart {
       let vis = this;
   
       vis.chart.selectAll('.category')
-          .data(vis.stackedData)
+          .data(vis.data)
         .join('g')
           .attr('class', d => `category cat-${d.key}`)
         .selectAll('rect')
