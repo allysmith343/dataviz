@@ -68,28 +68,63 @@
   <div class="viz-item">
     <a href="labs/lab4/index.html">
       <img src="assets/vis5.png" alt="Visualization 5" class="viz-img">
-      <div class="viz-title">Coffee Shop Queue and Bar Chart</div>
+      <div class="viz-title">Coffee Shop Queue Simulation</div>
     </a>
   </div>
 
   <div class="viz-item">
-    <a href="labs/lab5/index.html">
+    <a href="labs/lab4/index.html">
+      <img src="assets/vis5.png" alt="Visualization 5" class="viz-img">
+      <div class="viz-title">Coffee House Chains</div>
+    </a>
+  </div>
+
+  <div class="viz-item">
+    <a href="labs/lab5/activity1/transitions.html">
       <img src="assets/vis6.png" alt="Visualization 6" class="viz-img">
-      <div class="viz-title">Break into more links??</div>
+      <div class="viz-title">Transitions</div>
     </a>
   </div>
 
   <div class="viz-item">
-    <a href="labs/lab6/index.html">
+    <a href="labs/lab5/activity1/extra.html">
+      <img src="assets/vis6.png" alt="Visualization 6" class="viz-img">
+      <div class="viz-title">User Input</div>
+    </a>
+  </div>
+
+  <div class="viz-item">
+    <a href="labs/lab5/activity2/tree.html">
+      <img src="assets/vis6.png" alt="Visualization 6" class="viz-img">
+      <div class="viz-title">Family Tree</div>
+    </a>
+  </div>
+
+  <div class="viz-item">
+    <a href="labs/lab6/stock-skeleton/index.html">
       <img src="assets/vis7.png" alt="Visualization 7" class="viz-img">
-      <div class="viz-title">Also break up?</div>
+      <div class="viz-title">S&P 500 Index</div>
+    </a>
+  </div>
+
+  <div class="viz-item">
+    <a href="labs/lab6/stream-stacks/index.html">
+      <img src="assets/vis7.png" alt="Visualization 7" class="viz-img">
+      <div class="viz-title">Streams Stacked Bar Chart</div>
+    </a>
+  </div>
+
+  <div class="viz-item">
+    <a href="labs/lab6/trails-skeleton/index.html">
+      <img src="assets/vis7.png" alt="Visualization 7" class="viz-img">
+      <div class="viz-title">Vancouver Trails</div>
     </a>
   </div>
 
   <div class="viz-item">
     <a href="labs/lab7/index.html">
       <img src="assets/vis8.png" alt="Visualization 8" class="viz-img">
-      <div class="viz-title">bruh</div>
+      <div class="viz-title">Variety of Visualizations</div>
     </a>
   </div>
 
