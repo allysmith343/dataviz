@@ -54,42 +54,42 @@
   <div class="viz-item">
     <a href="labs/lab2/index.html">
       <img src="assets/vis3.png" alt="Visualization 3" class="viz-img">
-      <div class="viz-title">Visualization 3</div>
+      <div class="viz-title">Cities in the EU</div>
     </a>
   </div>
 
   <div class="viz-item">
     <a href="labs/lab3/index.html">
       <img src="assets/vis4.png" alt="Visualization 4" class="viz-img">
-      <div class="viz-title">Visualization 4</div>
+      <div class="viz-title">Sales per Month Bar Chart</div>
     </a>
   </div>
 
   <div class="viz-item">
     <a href="labs/lab4/index.html">
       <img src="assets/vis5.png" alt="Visualization 5" class="viz-img">
-      <div class="viz-title">Visualization 5</div>
+      <div class="viz-title">Coffee Shop Queue and Bar Chart</div>
     </a>
   </div>
 
   <div class="viz-item">
     <a href="labs/lab5/index.html">
       <img src="assets/vis6.png" alt="Visualization 6" class="viz-img">
-      <div class="viz-title">Visualization 6</div>
+      <div class="viz-title">Break into more links??</div>
     </a>
   </div>
 
   <div class="viz-item">
     <a href="labs/lab6/index.html">
       <img src="assets/vis7.png" alt="Visualization 7" class="viz-img">
-      <div class="viz-title">Visualization 7</div>
+      <div class="viz-title">Also break up?</div>
     </a>
   </div>
 
   <div class="viz-item">
     <a href="labs/lab7/index.html">
       <img src="assets/vis8.png" alt="Visualization 8" class="viz-img">
-      <div class="viz-title">Visualization 8</div>
+      <div class="viz-title">bruh</div>
     </a>
   </div>
 
