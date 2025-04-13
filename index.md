@@ -39,7 +39,7 @@
 
   <div class="viz-item">
     <a href="final/index.html">
-      <img src="assets/vis1.png" alt="Visualization 1" class="viz-img">
+      <img src="assets/rubik.png" alt="Visualization 1" class="viz-img">
       <div class="viz-title">Rubik's Cube Competitions</div>
     </a>
   </div>
