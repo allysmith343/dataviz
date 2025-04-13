@@ -1,0 +1,6 @@
+title: Data Visualization Portfolio
+description: Presenting projects I completed for my Data Visualization course. 
+
+theme: minima
+plugins:
+  - jekyll-remote-theme
