@@ -2,17 +2,47 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>D3 Bar Chart</title>
+    <title>D3 Bar Charts Side by Side</title>
     <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        .chart-container {
+            display: flex;
+            gap: 30px;
+            justify-content: center;
+            align-items: flex-start;
+            margin-top: 40px;
+        }
+
+        #chart1, #chart2 {
+            width: 45%;
+            height: 600px;
+            border: 1px solid #ccc;
+        }
+    </style>
 </head>
 <body>
-	<!-- We will add the SVG chart to the following container -->
-	<div id="chart"></div>
 
+    <h1 style="text-align:center;">Side-by-Side D3 Visualizations</h1>
+
+    <div class="chart-container">
+        <!-- Chart 1 (Regular Bar Chart) -->
+        <div id="chart1"></div>
+
+        <!-- Chart 2 (Stacked Bar Chart) -->
+        <svg id="chart2"></svg>
+    </div>
+
+    <!-- Shared Libraries -->
     <script src="js/d3.v6.min.js"></script>
 
+    <!-- Chart 1 (bar chart) -->
     <script src="js/barchart.js"></script>
 
+    <!-- Chart 2 (stacked bar chart) -->
+    <script src="js/stackedBarChart.js"></script>
+
+    <!-- Optional shared behaviors -->
     <script src="js/main.js"></script>
 </body>
 </html>
