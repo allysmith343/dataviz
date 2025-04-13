@@ -9,4 +9,4 @@ const stackedBarChart = new StackedBarChart({
   parentElement: '#chart2',
   containerWidth: 400,
   containerHeight: 200
-}, stackedData);
+}, data);
