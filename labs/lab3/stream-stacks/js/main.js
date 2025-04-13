@@ -6,4 +6,5 @@ const data = [
   ];
   
   // Create chart
-  const stackedBarChart = new StackedBarChart({ parentElement: '#chart2'}, data);
+  const barchart = new BarChart({ parentElement: '#chart2'}, data);
+barchart.updateVis();
