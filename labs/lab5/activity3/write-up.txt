@@ -1,0 +1,24 @@
+From Activity 1 (Transitions): What style attributes changed smoothly? Which changes happened abruptly? 
+The width and height changed smoothly. The stroke color and width changed pretty abruptly. 
+Also, fourth set of bars transitioned a bit differently as it used new data.
+
+From Activity 1 (Transitions): How might you add new data more gracefully? 
+Assume that we know we will be shifting from 3 data points to 5 data points. 
+You do not need to write code for this; pseudocode or words is what I’m looking for. You may consult external sources if needed.
+When we have 3 data points, maybe we could have 2 blank bars, or bars that are the same color as the background. 
+When we transition to 5 data points, we would just edit the 2 blank bars to be a different color so that they show up now.
+I'm not sure if my explanation made sense, but I think having the space already dedicated for 2 more data points
+would create a smoother transition.
+
+How long did this take (estimate)? Around 4-5 hours.
+
+What were the enjoyable aspects of the lab? 
+I liked the family tree because it was fun to put in my family members. 
+I also think my grandmas should have kept their maiden names because they're cool.
+
+What were the challenging parts of this lab? 
+I could not figure out how to flip the family tree. So, that took me a long time.
+
+What resources did you use? 
+Include links to websites below. I used the link we were given for the tool tip example. Other than that, I used previous labs.
+

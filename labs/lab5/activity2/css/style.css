@@ -1,0 +1,23 @@
+body {
+  font-size: 15px;
+  padding: 30px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.edge {
+  fill: none;
+  stroke: deepskyblue;
+  stroke-opacity: 0.4;
+  stroke-width: 1.5;
+}
+
+.node-circle {
+  fill: #999;
+}
+
+#tooltip {
+  position: absolute;
+  display: none;
+  /* ... other tooltip styles ... */
+}
+
