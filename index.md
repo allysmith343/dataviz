@@ -37,8 +37,8 @@
 
   .star-badge {
     position: absolute;
-    top: 8px;
-    right: 8px;
+    bottom: 8px;
+    left: 8px;
     background: gold;
     color: white;
     padding: 3px 6px;
