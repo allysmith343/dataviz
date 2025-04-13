@@ -1,16 +1,73 @@
-.axis path,
-.axis line {
+/* === General Page Styling === */
+body {
+	font-family: 'Noto Sans JP', sans-serif;
+	font-size: 13px;
+	padding: 30px;
+  }
+  
+  /* === Chart 1 Styles === */
+  #chart1-container .axis path,
+  #chart1-container .axis line {
 	fill: none;
 	stroke: #333;
 	shape-rendering: crispEdges;
-}
-
-.axis text {
+  }
+  
+  #chart1-container .axis text {
 	font-family: sans-serif;
 	font-size: 11px;
-}
-
-.bar {
+  }
+  
+  #chart1-container .bar {
 	fill: steelblue;
 	shape-rendering: crispEdges;
-}
+  }
+  
+  /* === Chart 2 Styles === */
+  #chart2-container .axis text {
+	font-size: 0.7rem;
+	fill: #6b6b6b;
+  }
+  
+  #chart2-container .domain,
+  #chart2-container .axis .tick line {
+	stroke: #888;
+  }
+  
+  #chart2-container rect {
+	shape-rendering: crispEdges;
+  }
+  
+  #chart2-container .cat-milk rect {
+	fill: #6080b5;
+  }
+  
+  #chart2-container .cat-water rect {
+	fill: #d4c32d;
+  }
+  
+  /* Optional cleaned-out legacy axis styling (feel free to uncomment/adapt) */
+  /*
+  #chart2-container .axis line {
+	fill: none;
+	stroke: #cac8c8;
+	shape-rendering: crispEdges;
+	stroke-dasharray: 3 2;
+	stroke-width: 0.5;
+  }
+  
+  #chart2-container .axis-label {
+	font-size: 0.75rem;
+	fill: #333;
+  }
+  
+  #chart2-container .y-axis .domain,
+  #chart2-container .x-axis .domain {
+	display: none;
+  }
+  
+  #chart2-container .y-axis .tick:first-child line {
+	display: none !important;
+  }
+  */
+  
