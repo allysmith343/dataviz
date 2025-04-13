@@ -66,14 +66,14 @@
   </div>
 
   <div class="viz-item">
-    <a href="labs/lab4/index.html">
+    <a href="labs/lab4/activity1/activity1.html">
       <img src="assets/vis5.png" alt="Visualization 5" class="viz-img">
       <div class="viz-title">Coffee Shop Queue Simulation</div>
     </a>
   </div>
 
   <div class="viz-item">
-    <a href="labs/lab4/index.html">
+    <a href="labs/lab4/activity2/activity2.html">
       <img src="assets/vis5.png" alt="Visualization 5" class="viz-img">
       <div class="viz-title">Coffee House Chains</div>
     </a>
