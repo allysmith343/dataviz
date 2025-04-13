@@ -38,56 +38,56 @@
 <div class="viz-grid">
 
   <div class="viz-item">
-    <a href="vis1/index.html">
+    <a href="final/index.html">
       <img src="assets/vis1.png" alt="Visualization 1" class="viz-img">
       <div class="viz-title">Visualization 1</div>
     </a>
   </div>
 
   <div class="viz-item">
-    <a href="vis2/index.html">
+    <a href="labs/lab1/index.html">
       <img src="assets/vis2.png" alt="Visualization 2" class="viz-img">
       <div class="viz-title">Visualization 2</div>
     </a>
   </div>
 
   <div class="viz-item">
-    <a href="vis3/index.html">
+    <a href="labs/lab2/index.html">
       <img src="assets/vis3.png" alt="Visualization 3" class="viz-img">
       <div class="viz-title">Visualization 3</div>
     </a>
   </div>
 
   <div class="viz-item">
-    <a href="vis4/index.html">
+    <a href="labs/lab3/index.html">
       <img src="assets/vis4.png" alt="Visualization 4" class="viz-img">
       <div class="viz-title">Visualization 4</div>
     </a>
   </div>
 
   <div class="viz-item">
-    <a href="vis5/index.html">
+    <a href="labs/lab4/index.html">
       <img src="assets/vis5.png" alt="Visualization 5" class="viz-img">
       <div class="viz-title">Visualization 5</div>
     </a>
   </div>
 
   <div class="viz-item">
-    <a href="vis6/index.html">
+    <a href="labs/lab5/index.html">
       <img src="assets/vis6.png" alt="Visualization 6" class="viz-img">
       <div class="viz-title">Visualization 6</div>
     </a>
   </div>
 
   <div class="viz-item">
-    <a href="vis7/index.html">
+    <a href="labs/lab6/index.html">
       <img src="assets/vis7.png" alt="Visualization 7" class="viz-img">
       <div class="viz-title">Visualization 7</div>
     </a>
   </div>
 
   <div class="viz-item">
-    <a href="vis8/index.html">
+    <a href="labs/lab7/index.html">
       <img src="assets/vis8.png" alt="Visualization 8" class="viz-img">
       <div class="viz-title">Visualization 8</div>
     </a>
