@@ -10,6 +10,7 @@
     text-align: center;
   }
   .viz-item {
+    position: relative;
     border: 1px solid #ddd;
     border-radius: 8px;
     padding: 10px;
