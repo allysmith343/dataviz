@@ -4,7 +4,7 @@ title: My Visualizations
 ---
 
 # Ally Smith's Data Visualizations
-### Welcome to my Data Visualization portfolio. Below is a link to my final project where a classmate and I mapped every Rubik's Cube European Competition from 1982 to 2021. Then, I showcase my labs for the course. As I learned more about JavaScript, CSS, and HTML, you can see my visualizations improved. After the labs, I have links to three written homework assignments. Finally, I used this domain to host a Design Sprint I did for my Human Computer Interactinon course.
+#### Welcome to my Data Visualization portfolio. Below is a link to my final project where a classmate and I mapped every Rubik's Cube European Competition from 1982 to 2021. Then, I showcase my labs for the course. As I learned more about JavaScript, CSS, and HTML, you can see my visualizations improved. After the labs, I have links to three written homework assignments. Finally, I used this domain to host a Design Sprint I did for my Human Computer Interactinon course.
 
 <style>
   .viz-grid {
