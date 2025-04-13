@@ -1,0 +1,9 @@
+.city-label {
+    font-size: 15px;
+    text-anchor: middle;
+    font-style: italic;
+}
+
+.circle-style {
+    fill: violet;
+}

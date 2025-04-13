@@ -1,0 +1,129 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="description" content="">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>CSC 362 Lab 2 - Introduction to JavaScript</title>
+
+		<!-- Load CSS libraries -->
+		<link rel="stylesheet" href="css/bootstrap.min.css">
+		<link rel="stylesheet" href="css/style.css">
+
+		<style>
+			div {
+				background-color: blueviolet;
+			} 
+ 		</style>
+
+	</head>
+	<body>
+
+
+	<div class="container">
+
+		<h1>Global Attractions Attendance</h1>
+
+		<div class="user-control">
+			<select id="attraction-category" class="form-control" onchange="dataManipulation()">
+			  <option value="all">All Attractions</option>
+			  <option value="Theme Park">Theme Park</option>
+			  <option value="Water Park">Water Park</option>
+			  <option value="Museum">Museum</option>
+			</select>
+		</div>
+
+		<!-- Parent container of our bar chart -->
+		<div id="chart-area"></div>
+
+	</div>
+	
+	  
+	<!-- Load JS libraries: jQuery, bootstrap, D3, D3 Tooltips -->
+	<script src="js/jquery.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/d3.min.js"></script>
+	<script src="js/d3-tip.js"></script>
+
+	<!-- DO NOT TOUCH -- Completed: data loading, bar-chart rendering -->
+	<script src="js/global-attractions.js"></script>
+	<script src="js/barchart.js"></script>
+
+
+
+
+	<!-- ***<div id="content-1"></div>
+	<div id="content-2"></div>
+	
+	 Note: this JS is in the HTML. We (generally) don't do this! 
+	<script type="text/javascript">
+			  // Write HTML with JS
+			  document.getElementById("content-1").innerHTML = '<h1>Headline</h1>...and some text (default is text when there are no tags)'
+		 
+		 // Loop through array, build HTML block and finally display it on the page
+		 var fruits = ["Orange", "Banana", "Apple"];
+		 var result = '';
+			   for (var i = 0; i < fruits.length; i++) {
+				   result += fruits[i] + "<br/>";
+			   }
+			   document.getElementById("content-2").innerHTML = result;
+	 </script>
+
+
+<div id="prices">
+	 Prices will be populated here 
+</div>
+
+<script>
+	var attractions = [
+		{id: "123",
+		name: "BuschGardens",
+		price: 54,
+		days: ["Thursday", "Friday","Saturday","Sunday"],
+		children: "No"},
+	
+		{id: "1234",
+		name: "Disney",
+		price: 200,
+		days: ["Sunday", "Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],
+		children: "No"},
+		
+		{id: "12345",
+		name: "Carowinds",
+		price: 75,
+		days: ["Sunday","Saturday"],
+		children: "Yes"}
+	];
+
+	// Calling the function
+	var attractionsDouble = doublePrices(attractions);
+
+	// Implementation of the function
+	function doublePrices(attractions) {
+		for (var i = 0; i < attractions.length; i++) {
+			if (i !== 1) {
+				attractions[i].price *= 2;
+			}
+		}
+		return attractions;
+	}
+
+	// Logging the updated prices
+	var updatedPrices = debugAmusementRides(attractionsDouble);
+
+	function debugAmusementRides(attractions) {
+		var pricesDiv = document.getElementById("prices");
+		attractions.forEach(function(attraction) {
+			var attractionDiv = document.createElement("div");
+			attractionDiv.textContent = attraction.name + ": $" + attraction.price;
+			pricesDiv.appendChild(attractionDiv);
+		});
+	}
+</script> *** -->
+
+
+
+	<!-- *** ADD JS CODE TO THE FOLLOWING FILE: *** -->
+	<script src="js/lab2.js"></script>
+	</body>
+</html>
