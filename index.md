@@ -61,58 +61,9 @@
   </div>
 
   <div class="viz-item">
-    <a href="labs/lab1/index.html">
-      <img src="assets/global.png" alt="Visualization 2" class="viz-img">
-      <div class="viz-title">Global Attractions Attendance</div>
-    </a>
-  </div>
-
-  <div class="viz-item">
-    <a href="labs/lab2/index.html">
-      <img src="assets/eu.png" alt="Visualization 3" class="viz-img">
-      <div class="viz-title">Cities in the EU</div>
-    </a>
-  </div>
-
-  <div class="viz-item">
-    <a href="labs/lab3/index.html">
-      <img src="assets/sales.png" alt="Visualization 4" class="viz-img">
-      <div class="viz-title">Bar Charts</div>
-    </a>
-  </div>
-
-  <div class="viz-item">
-    <a href="labs/lab4/activity1/activity1.html">
-      <img src="assets/queue.png" alt="Visualization 5" class="viz-img">
-      <div class="viz-title">Coffee Shop Queue Simulation</div>
-    </a>
-  </div>
-
-  <div class="viz-item">
-    <a href="labs/lab4/activity2/activity2.html">
-      <img src="assets/coffee.png" alt="Visualization 5" class="viz-img">
-      <div class="viz-title">Coffee House Chains</div>
-    </a>
-  </div>
-
-  <div class="viz-item">
-    <a href="labs/lab5/activity1/transitions.html">
-      <img src="assets/transition.png" alt="Visualization 6" class="viz-img">
-      <div class="viz-title">Transitions</div>
-    </a>
-  </div>
-
-  <div class="viz-item">
-    <a href="labs/lab5/activity1/extra.html">
-      <img src="assets/user.png" alt="Visualization 6" class="viz-img">
-      <div class="viz-title">User Input</div>
-    </a>
-  </div>
-
-  <div class="viz-item">
-    <a href="labs/lab5/activity2/tree.html">
-      <img src="assets/tree.png" alt="Visualization 6" class="viz-img">
-      <div class="viz-title">Family Tree</div>
+    <a href="labs/lab7/index.html">
+      <img src="assets/graph.png" alt="Visualization 8" class="viz-img">
+      <div class="viz-title">Variety of Visualizations</div>
     </a>
   </div>
 
@@ -131,9 +82,51 @@
   </div>
 
   <div class="viz-item">
-    <a href="labs/lab7/index.html">
-      <img src="assets/graph.png" alt="Visualization 8" class="viz-img">
-      <div class="viz-title">Variety of Visualizations</div>
+    <a href="labs/lab4/activity2/activity2.html">
+      <img src="assets/coffee.png" alt="Visualization 5" class="viz-img">
+      <div class="viz-title">Coffee House Chains</div>
+    </a>
+  </div>
+
+  <div class="viz-item">
+    <a href="labs/lab4/activity1/activity1.html">
+      <img src="assets/queue.png" alt="Visualization 5" class="viz-img">
+      <div class="viz-title">Coffee Shop Queue Simulation</div>
+    </a>
+  </div>
+
+  <div class="viz-item">
+    <a href="labs/lab5/activity2/tree.html">
+      <img src="assets/tree.png" alt="Visualization 6" class="viz-img">
+      <div class="viz-title">Family Tree</div>
+    </a>
+  </div>
+
+  <div class="viz-item">
+    <a href="labs/lab5/activity1/extra.html">
+      <img src="assets/user.png" alt="Visualization 6" class="viz-img">
+      <div class="viz-title">User Input</div>
+    </a>
+  </div>
+
+  <div class="viz-item">
+    <a href="labs/lab5/activity1/transitions.html">
+      <img src="assets/transition.png" alt="Visualization 6" class="viz-img">
+      <div class="viz-title">Transitions</div>
+    </a>
+  </div>
+
+  <div class="viz-item">
+    <a href="labs/lab2/index.html">
+      <img src="assets/eu.png" alt="Visualization 3" class="viz-img">
+      <div class="viz-title">Cities in the EU</div>
+    </a>
+  </div>
+
+  <div class="viz-item">
+    <a href="labs/lab3/index.html">
+      <img src="assets/sales.png" alt="Visualization 4" class="viz-img">
+      <div class="viz-title">Bar Charts</div>
     </a>
   </div>
 
