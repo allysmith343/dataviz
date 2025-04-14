@@ -35,25 +35,11 @@
     text-decoration: underline;
   }
 
-  .star-badge {
-    position: absolute;
-    bottom: 8px;
-    left: 8px;
-    background: gold;
-    color: white;
-    padding: 3px 6px;
-    font-size: 0.75rem;
-    font-weight: bold;
-    border-radius: 50%;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.2);
-    z-index: 10;
-  }
 </style>
 
 <div class="viz-grid">
 
   <div class="viz-item">
-    <div class="star-badge" title="Featured Project">★</div>
     <a href="final/index.html">
       <img src="assets/rubik.png" alt="Visualization 1" class="viz-img">
       <div class="viz-title">Rubik's Cube Competitions</div>
