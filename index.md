@@ -130,5 +130,12 @@
     </a>
   </div>
 
+  <div class="viz-item">
+    <a href="labs/lab1/index.html">
+      <img src="assets/global.png" alt="Visualization 6" class="viz-img">
+      <div class="viz-title">Global Attraction Attendance</div>
+    </a>
+  </div>
+
 </div>
 
