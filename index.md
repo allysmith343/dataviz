@@ -1,6 +1,6 @@
 
 
-#### Welcome to my Data Visualization portfolio. Below is a link to my final project where a classmate and I mapped every Rubik's Cube European Competition from 1982 to 2021. Then, I showcase my labs for the course. As I learned more about JavaScript, CSS, and HTML, you can see my visualizations improved. 
+#### Welcome to my Data Visualization portfolio. Below is a link to my final project where a classmate and I mapped every Rubik's Cube European Competition from 1982 to 2021. Then, I showcase my labs from the course. As I learned more about JavaScript, CSS, and HTML, my visualizations improved. 
 
 <style>
   .viz-grid {
