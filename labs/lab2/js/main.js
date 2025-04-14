@@ -7,7 +7,7 @@ d3.csv('data/cities_and_population.csv')
 
     var countDiv = document.getElementById("countCities")
     var paragraph = document.createElement("p")
-    paragraph.textContent = `There are ${countEuCities} cities in the EU.`
+    paragraph.textContent = `There are ${countEuCities} cities in the EU. Each dot represents a city and is placed based on the actual location of the cities in Europe. The cities with populations larger than a milliona are the larger dots and are labeled.`
     countDiv.appendChild(paragraph)
 
     euCities.forEach(city => {
